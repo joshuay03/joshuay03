@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm Joshua Young.
+My name is Josh.
 
 I'm a Software Engineer with a passion for Ruby and Rails.
 
