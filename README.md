@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-My name is Josh.
+I'm Josh.
 
 I'm a Brisbane based Software Engineer with a passion for Ruby and Rails.
 
