@@ -10,4 +10,4 @@ You can reach out to me via my socials, I'm always happy to chat about my work o
 
 Happy coding! 👨🏽‍💻
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuay03)](https://github.com/joshuay03/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuay03&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=calm)](https://github.com/joshuay03/github-readme-stats)
