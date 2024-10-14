@@ -8,6 +8,7 @@ I'm either solving problems at work, using my spare time to [contribute to open 
 - https://github.com/joshuay03/dependent-auto-rails
 - https://github.com/joshuay03/red-black-tree
 - https://github.com/joshuay03/puma-cfs-rails
+- https://github.com/joshuay03/fiber-cfs
 
 You can reach out to me via my socials, I'm always happy to chat about my work or anything tech related.
 
