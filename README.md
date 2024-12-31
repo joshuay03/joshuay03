@@ -7,7 +7,6 @@ I'm a Brisbane based Software Engineer with a passion for Ruby and Rails.
 I'm either solving problems at work, using my spare time to [contribute to open source projects](https://github.com/users/joshuay03/projects/1) in any way I can, or working on my own:
 - https://github.com/joshuay03/dependent-auto-rails
 - https://github.com/joshuay03/red-black-tree
-- https://github.com/joshuay03/puma-cfs-rails
 - https://github.com/joshuay03/fiber-cfs
 - https://github.com/joshuay03/dial
 
