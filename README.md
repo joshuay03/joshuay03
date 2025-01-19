@@ -4,13 +4,23 @@ I'm Josh.
 
 I'm a Brisbane based Software Engineer with a passion for Ruby and Rails.
 
-I'm either solving problems at work, using my spare time to [contribute to open source projects](https://github.com/users/joshuay03/projects/1) in any way I can, or working on my own:
-- https://github.com/joshuay03/dependent-auto-rails
-- https://github.com/joshuay03/red-black-tree
-- https://github.com/joshuay03/fiber-cfs
-- https://github.com/joshuay03/dial
+I'm currently solving problems at work at [Buildkite](https://www.buildkite.com).
 
-You can reach out to me via my socials, I'm always happy to chat about my work or anything tech related.
+Outside of work, I contribute to open source in various ways, including maintaining and developing projects.
+
+### Projects I've contributed to:
+- [My OSS board](https://github.com/users/joshuay03/projects/1)
+
+### Projects I help maintain:
+- [Vernier](https://github.com/jhawthorn/vernier)
+
+### Projects I maintain:
+- [DependentAutoRails](https://github.com/joshuay03/dependent-auto-rails)
+- [RedBlackTree](https://github.com/joshuay03/red-black-tree)
+- [FiberCFS](https://github.com/joshuay03/fiber-cfs)
+- [Dial](https://github.com/joshuay03/dial)
+
+You can reach out to me via my socials, I'm always happy to chat about my work or anything else.
 
 Happy coding! 👨🏽‍💻
 
