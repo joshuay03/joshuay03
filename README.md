@@ -2,11 +2,9 @@
 
 I'm Josh.
 
-I'm a Brisbane based Software Engineer with a passion for Ruby and Rails.
+I'm a Software Engineer based in Brisbane with a passion for Ruby and Rails.
 
-I'm currently solving problems at work at [Buildkite](https://www.buildkite.com).
-
-Outside of work, I contribute to open source in various ways, including maintaining and developing projects.
+I’m either solving problems at work ([Buildkite](https://www.buildkite.com)) or contributing to open source in various ways.
 
 ### Projects I've contributed to:
 - [My OSS board](https://github.com/users/joshuay03/projects/1)
