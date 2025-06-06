@@ -13,10 +13,11 @@ I’m either solving problems at work ([Buildkite](https://www.buildkite.com)) o
 - [Vernier](https://github.com/jhawthorn/vernier)
 
 ### Projects I maintain:
-- [DependentAutoRails](https://github.com/joshuay03/dependent-auto-rails)
 - [RedBlackTree](https://github.com/joshuay03/red-black-tree)
-- [FiberCFS](https://github.com/joshuay03/fiber-cfs)
+- [AtomicRuby](https://github.com/joshuay03/atomic-ruby)
 - [Dial](https://github.com/joshuay03/dial)
+- [DependentAutoRails](https://github.com/joshuay03/dependent-auto-rails)
+- [FiberCFS](https://github.com/joshuay03/fiber-cfs)
 
 You can reach out to me via my socials, I'm always happy to chat about my work or anything else.
 
