@@ -13,6 +13,7 @@ I’m either solving problems at work ([Buildkite](https://www.buildkite.com)) o
 - [Vernier](https://github.com/jhawthorn/vernier)
 
 ### Projects I maintain:
+- [MmapRuby](https://github.com/joshuay03/mmap-ruby)
 - [AtomicRuby](https://github.com/joshuay03/atomic-ruby)
 - [Dial](https://github.com/joshuay03/dial)
 - [RedBlackTree](https://github.com/joshuay03/red-black-tree)
