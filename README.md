@@ -4,12 +4,13 @@ I'm Josh.
 
 I'm a Software Engineer based in Brisbane with a passion for Ruby and Rails.
 
-I’m either solving problems at work ([Buildkite](https://www.buildkite.com)) or contributing to open source in various ways.
+I'm either solving problems at work ([Buildkite](https://www.buildkite.com)), contributing to open source, or helping maintain Rails as part of the Issues team.
 
 ### Projects I've contributed to:
 - [My OSS board](https://github.com/users/joshuay03/projects/1)
 
 ### Projects I help maintain:
+- [Rails](https://github.com/rails/rails)
 - [Vernier](https://github.com/jhawthorn/vernier)
 
 ### Projects I maintain:
