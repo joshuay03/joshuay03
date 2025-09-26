@@ -2,7 +2,7 @@
 
 I'm Josh.
 
-I'm a Software Engineer based in Brisbane with a passion for Ruby and Rails.
+I'm a Software Engineer based in Brisbane, Australia with a passion for Ruby and Rails.
 
 I'm either solving problems at work ([Buildkite](https://www.buildkite.com)), contributing to open source, or helping maintain Rails as part of the Issues team.
 
