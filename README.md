@@ -15,9 +15,10 @@ I'm either solving problems at work ([Buildkite](https://www.buildkite.com)), co
 
 ### Projects I maintain:
 - [Dial](https://github.com/joshuay03/dial)
-- [RedBlackTree](https://github.com/joshuay03/red-black-tree)
+- [RactorPool](github.com/joshuay03/ractor-pool)
 - [AtomicRuby](https://github.com/joshuay03/atomic-ruby)
 - [MmapRuby](https://github.com/joshuay03/mmap-ruby)
+- [RedBlackTree](https://github.com/joshuay03/red-black-tree)
 - [DependentAutoRails](https://github.com/joshuay03/dependent-auto-rails)
 
 You can reach out to me via my socials, I'm always happy to chat about my work or anything else.
