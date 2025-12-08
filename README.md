@@ -12,6 +12,7 @@ I'm either solving problems at work ([Buildkite](https://www.buildkite.com)) or 
 ### Projects I help maintain:
 - [Rails](https://github.com/rails/rails)
 - [Puma](https://github.com/puma/puma)
+- [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby)
 - [Vernier](https://github.com/jhawthorn/vernier)
 
 ### Projects I maintain:
