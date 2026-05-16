@@ -17,6 +17,7 @@ I'm either solving problems at work ([Buildkite](https://www.buildkite.com)) or 
 
 ### Projects I maintain:
 - [Dial](https://github.com/joshuay03/dial)
+- [Raptor](https://github.com/joshuay03/raptor)
 - [RactorPool](https://github.com/joshuay03/ractor-pool)
 - [AtomicRuby](https://github.com/joshuay03/atomic-ruby)
 - [MmapRuby](https://github.com/joshuay03/mmap-ruby)
